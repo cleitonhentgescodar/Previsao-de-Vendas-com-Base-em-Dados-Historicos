@@ -130,6 +130,6 @@ Split:
 
 ---
 
-👤 Autor
+## 👨‍💻 Autor
 
-cleiton Hentges
+Projeto desenvolvido como parte de estudos em Ciência de Dados e Machine Learning.
